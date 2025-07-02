@@ -16,6 +16,6 @@ An animated and responsive HTML project that presents student grades from a Calc
 
 ## 🔗 Live Demo
 
-[Click here to view live](https://titli-purkait.github.io/Calculus-Final-Grades/)
+[Click here to view live]( https://titli-purkait.github.io/Calculus-Final-Grades/)
 
 - By Titli Purkait
